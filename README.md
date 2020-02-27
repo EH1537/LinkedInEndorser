@@ -5,4 +5,4 @@
 Clone, point chrome browser to root folder with development mode on.
 
 
-This will create an icon on your browser extensin with a L, clicking this when on someone's page with auto endorse their skillz.
+This will create an icon on your browser extension with an L, clicking this when on someone's page with auto endorse their skillz.
